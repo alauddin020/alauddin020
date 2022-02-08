@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name's Alauddin
 #### Software Engineer
-![I am GitHub Readme Generator's creator](https://alauddin020.github.io/alauddin020/images/Alauddin.jpg)
+![I am GitHub Readme Generator's creator]([<img src="https://alauddin020.github.io/alauddin020/images/Alauddin.jpg" height="100" />])
 
 I am very passionate about computer and programming since my university life. I had a dream to be an expert software engineer so that I can build professional and useful software that has business value.
 Now I'm Laravel based web application.
